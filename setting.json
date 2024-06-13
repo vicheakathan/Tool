@@ -1,0 +1,12 @@
+{
+    "startTime": "00:00:00",
+    "video_duration": "65",
+    "contrast": 1.0,
+    "video_speed": 1.15,
+    "saturation": 1.15,
+    "video_rotation": true,
+    "crop_size": "720p",
+    "frame_1080p": "1080x1920",
+    "frame_720p" : "720x1280",
+    "frame_480p": "480x640"
+}
